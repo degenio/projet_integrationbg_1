@@ -60,6 +60,7 @@ Les capteurs sont installés au niveau de chaque moyen de transport. La partie a
 
 ## Livrable
 
-1.	Schéma conceptuel de votre solution .
+1.	Schéma conceptuel de votre solution.
 2.	Explication nécessaire pour la solution proposée
 3.	Critères de sélection utilisés pour sélectionner le langage/framework pour le développement de votre solution.
+4. Pour chaque problème, proposer une solution et procéder à son implémentation
