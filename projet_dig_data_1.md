@@ -10,6 +10,16 @@ Traitement et besoins : l’entreprise dispose de cinq filiales à travers le pa
 
 Les capteurs sont installés au niveau de chaque moyen de transport. La partie analytique est effectuée par des spécialistes qui ont à leur disposition des tablettes et PC.
 
+## Probleme 0: Analyse de besoins/conception de la solution
+
+**Objectif**: Analyser les besoins et procéder à une conception de la solution.
+
+### Taches:
+1.  
+2.  
+3.  
+4. 
+
 ## Probleme 1: Collecte et ingestion de données
 
 **Objectif**: Ingestion et traitement préliminaire des données.
